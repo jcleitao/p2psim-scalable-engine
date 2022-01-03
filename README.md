@@ -1,6 +1,6 @@
-# peernet-scalable-engine
+# p2psim-scalable-engine
 
-This project contains variants of the scalable event-drive engine for the Peernet simulator (https://github.com/jcleitao/peernet-core).
+This project contains variants of the scalable event-drive engine for the Peernet simulator (https://github.com/jcleitao/p2psim-core).
 
 This allows to run large-scale experiments where the total number of events to be processed by the simulator grow beyond the maximum size of an Integer. Furthermore, we provide a variant of the simulation engine that relies on parallel execution of the experiment without compromising the deterministic nature of these experiments.
 
